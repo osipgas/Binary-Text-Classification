@@ -52,5 +52,8 @@ The `SpamFilter` class encapsulates the logic for spam detection. It utilizes th
 5. Model Testing
 The testing notebook demonstrates the usage of the `SpamFilter` class with real email data, showcasing its effectiveness and accuracy in identifying spam.
 
-6. Conclusion
-This project highlights key skills in Python programming, data preprocessing, natural language processing, and machine learning. It demonstrates the complete workflow of building, training, and deploying a machine learning model for a practical application like spam detection. The Spam Filter project is an excellent showcase for aspiring Python developers and machine learning engineers, illustrating the application of these technologies in solving real-world problems.
+6. Dataset
+The dataset used in this project comprises randomly collected emails, which are classified as either spam or ham (non-spam). The first column contains the spam/ham classification, while the second column contains the email text, it also contains 3 columns with NaNs. This dataset provides a diverse set of examples to train and test the spam detection models effectively.
+
+7. Conclusion
+This project highlights key skills in Python programming, data preprocessing, natural language processing, and machine learning. It demonstrates the complete workflow of building,training, and deploying a machine learning model for a practical application like spam detection. The Spam Filter project is an excellent showcase for aspiring Python developers and machine learning engineers, illustrating the application of these technologies in solving real-world problems.
