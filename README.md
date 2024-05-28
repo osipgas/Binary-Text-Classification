@@ -1,4 +1,4 @@
-The Binary Text Classification project is a comprehensive implementation of a machine learning-based email classification system. The project is designed to detect spam emails using advanced data preprocessing techniques, natural language processing (NLP), and machine learning algorithms. The system is built using Python, leveraging its robust libraries for data processing and machine learning.
+The spam detection project is a comprehensive implementation of a machine learning-based email classification system. The project is designed to detect spam emails using advanced data preprocessing techniques, natural language processing (NLP), and machine learning algorithms. The system is built using Python, leveraging its robust libraries for data processing and machine learning.
 
 
 The project is organized into six main files, each serving a specific purpose in the overall system:
