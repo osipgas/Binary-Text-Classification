@@ -57,3 +57,5 @@ The dataset used in this project comprises randomly collected emails, which are 
 
 7. Conclusion
 This project highlights key skills in Python programming, data preprocessing, natural language processing, and machine learning. It demonstrates the complete workflow of building,training, and deploying a machine learning model for a practical application like spam detection. The Spam Filter project is an excellent showcase for aspiring Python developers and machine learning engineers, illustrating the application of these technologies in solving real-world problems.
+
+The following image shows the result of ParkingTracker work:<img width="411" alt="aaa" src="https://github.com/osipgas/spam-detection/assets/115102730/b5a74b95-732a-47be-93bb-103a94035613">
